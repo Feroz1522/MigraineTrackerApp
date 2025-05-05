@@ -14,8 +14,11 @@ namespace MigraineTrackerApp
                 .UseMauiCommunityToolkit()
                 .ConfigureFonts(fonts =>
                 {
-                    fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
-                    fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("OpenSans-Regular.ttf", "OSReg");
+                    fonts.AddFont("OpensSans-Semibold.ttf", "OSSem");
+                    fonts.AddFont("Poppins-Bold.ttf", "PBold");
+                    fonts.AddFont("Poppins-Medium.ttf", "PMed");
+                    fonts.AddFont("Poppins-SemiBold.ttf", "PSBold");
                 });
             StartUp.Init();
 

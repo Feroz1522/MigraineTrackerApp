@@ -1,40 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\MigraineTrackerApp\\",
+  "WorkspaceRootPath": "D:\\GitFolder\\MigraineTrackerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\projects\\migrainetrackerapp\\migrainetrackerapp\\di\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\pages\\loginscreen\\loginscreenview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\pages\\loginscreen\\loginscreenview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\di\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\di\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\projects\\migrainetrackerapp\\migrainetrackerapp\\helpers\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\helpers\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\helpers\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\projects\\migrainetrackerapp\\migrainetrackerapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feroz\\.nuget\\packages\\communitytoolkit.maui\\9.1.1\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\projects\\migrainetrackerapp\\migrainetrackerapp\\di\\dependencyinjectioncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\di\\dependencyinjectioncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\di\\dependencyinjectioncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\projects\\migrainetrackerapp\\migrainetrackerapp\\migrainetrackerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\migrainetrackerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\migrainetrackerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\projects\\migrainetrackerapp\\migrainetrackerapp\\helpers\\utilities\\handlerhelper\\handlerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\helpers\\utilities\\handlerhelper\\handlerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\helpers\\utilities\\handlerhelper\\handlerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\projects\\migrainetrackerapp\\migrainetrackerapp\\helpers\\utilities\\baseviewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\helpers\\utilities\\baseviewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\helpers\\utilities\\baseviewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\projects\\migrainetrackerapp\\migrainetrackerapp\\helpers\\servicehelper\\servicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|d:\\gitfolder\\migrainetrackerapp\\migrainetrackerapp\\helpers\\servicehelper\\servicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C59570-0193-470B-B54C-D9BB7BF02D55}|MigraineTrackerApp\\MigraineTrackerApp.csproj|solutionrelative:migrainetrackerapp\\helpers\\servicehelper\\servicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -45,122 +49,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "LoginScreenView.xaml",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Pages\\LoginScreen\\LoginScreenView.xaml",
+              "RelativeDocumentMoniker": "MigraineTrackerApp\\Pages\\LoginScreen\\LoginScreenView.xaml",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Pages\\LoginScreen\\LoginScreenView.xaml*",
+              "RelativeToolTip": "MigraineTrackerApp\\Pages\\LoginScreen\\LoginScreenView.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T20:40:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\Users\\feroz\\.nuget\\packages\\communitytoolkit.maui\\9.1.1\\ReadMe.txt",
               "ToolTip": "C:\\Users\\feroz\\.nuget\\packages\\communitytoolkit.maui\\9.1.1\\ReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-05T19:41:14.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:41:14.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\MauiProgram.cs",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MigraineTrackerApp\\MauiProgram.cs",
-              "ToolTip": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\MauiProgram.cs",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\MauiProgram.cs",
               "RelativeToolTip": "MigraineTrackerApp\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T19:39:17.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\DI\\StartUp.cs",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\DI\\StartUp.cs",
               "RelativeDocumentMoniker": "MigraineTrackerApp\\DI\\StartUp.cs",
-              "ToolTip": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\DI\\StartUp.cs",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\DI\\StartUp.cs",
               "RelativeToolTip": "MigraineTrackerApp\\DI\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T19:34:10.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DependencyinjectionContainer.cs",
-              "DocumentMoniker": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\DI\\DependencyinjectionContainer.cs",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\DI\\DependencyinjectionContainer.cs",
               "RelativeDocumentMoniker": "MigraineTrackerApp\\DI\\DependencyinjectionContainer.cs",
-              "ToolTip": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\DI\\DependencyinjectionContainer.cs",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\DI\\DependencyinjectionContainer.cs",
               "RelativeToolTip": "MigraineTrackerApp\\DI\\DependencyinjectionContainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:31:30.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:31:30.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "utilities.cs",
-              "DocumentMoniker": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\utilities.cs",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\utilities.cs",
               "RelativeDocumentMoniker": "MigraineTrackerApp\\Helpers\\Utilities\\utilities.cs",
-              "ToolTip": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\utilities.cs",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\utilities.cs",
               "RelativeToolTip": "MigraineTrackerApp\\Helpers\\Utilities\\utilities.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAvwCAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:27:58.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HandlerHelper.cs",
-              "DocumentMoniker": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\HandlerHelper\\HandlerHelper.cs",
-              "RelativeDocumentMoniker": "MigraineTrackerApp\\Helpers\\Utilities\\HandlerHelper\\HandlerHelper.cs",
-              "ToolTip": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\HandlerHelper\\HandlerHelper.cs",
-              "RelativeToolTip": "MigraineTrackerApp\\Helpers\\Utilities\\HandlerHelper\\HandlerHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:27:40.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:27:58.571Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\BaseViewModel\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "MigraineTrackerApp\\Helpers\\Utilities\\BaseViewModel\\BaseViewModel.cs",
-              "ToolTip": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\BaseViewModel\\BaseViewModel.cs",
-              "RelativeToolTip": "MigraineTrackerApp\\Helpers\\Utilities\\BaseViewModel\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Title": "HandlerHelper.cs",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\HandlerHelper\\HandlerHelper.cs",
+              "RelativeDocumentMoniker": "MigraineTrackerApp\\Helpers\\Utilities\\HandlerHelper\\HandlerHelper.cs",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\HandlerHelper\\HandlerHelper.cs",
+              "RelativeToolTip": "MigraineTrackerApp\\Helpers\\Utilities\\HandlerHelper\\HandlerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:25:16.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:27:40.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ServiceHelper.cs",
-              "DocumentMoniker": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\ServiceHelper\\ServiceHelper.cs",
-              "RelativeDocumentMoniker": "MigraineTrackerApp\\Helpers\\ServiceHelper\\ServiceHelper.cs",
-              "ToolTip": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\ServiceHelper\\ServiceHelper.cs",
-              "RelativeToolTip": "MigraineTrackerApp\\Helpers\\ServiceHelper\\ServiceHelper.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAEwGoAAAAxAAAAAAAAAA==",
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\BaseViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "MigraineTrackerApp\\Helpers\\Utilities\\BaseViewModel\\BaseViewModel.cs",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\Utilities\\BaseViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "MigraineTrackerApp\\Helpers\\Utilities\\BaseViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:09:38.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:25:16.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MigraineTrackerApp",
-              "DocumentMoniker": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\MigraineTrackerApp.csproj",
+              "DocumentIndex": 9,
+              "Title": "ServiceHelper.cs",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\ServiceHelper\\ServiceHelper.cs",
+              "RelativeDocumentMoniker": "MigraineTrackerApp\\Helpers\\ServiceHelper\\ServiceHelper.cs",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\Helpers\\ServiceHelper\\ServiceHelper.cs",
+              "RelativeToolTip": "MigraineTrackerApp\\Helpers\\ServiceHelper\\ServiceHelper.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAEwGoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:09:38.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MigraineTrackerApp.csproj",
+              "DocumentMoniker": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\MigraineTrackerApp.csproj",
               "RelativeDocumentMoniker": "MigraineTrackerApp\\MigraineTrackerApp.csproj",
-              "ToolTip": "D:\\Projects\\MigraineTrackerApp\\MigraineTrackerApp\\MigraineTrackerApp.csproj",
+              "ToolTip": "D:\\GitFolder\\MigraineTrackerApp\\MigraineTrackerApp\\MigraineTrackerApp.csproj",
               "RelativeToolTip": "MigraineTrackerApp\\MigraineTrackerApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-05T19:04:31.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:04:31.758Z"
             }
           ]
         }
