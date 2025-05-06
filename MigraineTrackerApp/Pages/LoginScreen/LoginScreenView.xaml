@@ -2,8 +2,42 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MigraineTrackerApp.Pages.LoginScreen.LoginScreenView"
+             BackgroundColor="#FFE9D2"
+             xmlns:TopBar="clr-namespace:CommunityToolkit.Maui.Behaviors;assembly=CommunityToolkit.Maui"
              Title="LoginScreenView">
-    <StackLayout>
-        
-    </StackLayout>
+    <Page.Behaviors>
+        <TopBar:StatusBarBehavior StatusBarStyle="DarkContent" StatusBarColor="#FFE9D2" ></TopBar:StatusBarBehavior>
+    </Page.Behaviors>
+    <Grid RowDefinitions="7*,auto,1*" Margin="30,15">
+        <Image Source="loginbg.jpg"></Image>
+        <StackLayout VerticalOptions="Start" HorizontalOptions="Start" >
+            <Label Text="Migraine Tracker" FontSize="22" TextColor="Black" Style="{StaticResource HeaderTxt}"/>
+        </StackLayout>
+        <StackLayout Grid.Row="1" Spacing="20">
+            <Border Padding="0,2,0,0" StrokeShape="RoundRectangle 30">
+                <Entry Keyboard="Email" HeightRequest="24" VerticalOptions="Center" Placeholder="Username" Margin="15,0" Style="{StaticResource ContentTxt}"  PlaceholderColor="Black"/>
+            </Border>
+            <Border Padding="0,2,0,0" StrokeShape="RoundRectangle 30">
+                <Entry IsPassword="False" HeightRequest="24" VerticalOptions="Center" Placeholder="Password" Margin="15,0" Style="{StaticResource ContentTxt}" PlaceholderColor="Black"/>             
+            </Border>
+            <Label HorizontalOptions="Center" Margin="0,0,0,3">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Forget Password" TextDecorations="Underline" Style="{StaticResource ContentTxt}" TextColor="DarkBlue" />
+                        </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Button Text="Login" CornerRadius="30" Margin="0,20,0,0" WidthRequest="190" BackgroundColor="Red" Style="{StaticResource HighLights}" />
+        </StackLayout>
+        <Label Grid.Row="2" HorizontalOptions="Center" VerticalOptions="End">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Already don't have an account " Style="{StaticResource ContentTxt}"  />
+                    <Span Text="SignUp " TextDecorations="Underline" Style="{StaticResource ContentTxt}" TextColor="DarkBlue" />
+                    <Span Text="?" Style="{StaticResource ContentTxt}" />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+    </Grid>
 </ContentPage>

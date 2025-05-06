@@ -1,4 +1,7 @@
-﻿namespace MigraineTrackerApp
+﻿using MigraineTrackerApp.Pages.LoginScreen;
+using MigraineTrackerApp.Pages.SignUpScreen;
+
+namespace MigraineTrackerApp
 {
     public partial class App : Application
     {
@@ -9,7 +12,7 @@
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
-            return new Window(new AppShell());
+            return new Window(new SignUpScreenView());
         }
     }
 }

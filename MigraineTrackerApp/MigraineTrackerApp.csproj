@@ -68,11 +68,13 @@
 
 	<ItemGroup>
 	  <Folder Include="Helpers\AppConstant\" />
-	  <Folder Include="Pages\SignUpScreen\" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <MauiXaml Update="Pages\LoginScreen\LoginScreenView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\SignUpScreen\SignUpScreenView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

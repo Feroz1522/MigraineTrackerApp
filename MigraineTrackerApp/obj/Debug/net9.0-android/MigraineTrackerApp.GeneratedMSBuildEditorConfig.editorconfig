@@ -42,6 +42,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MigraineTrackerApp.Pages.L
 build_metadata.AdditionalFiles.TargetPath = Pages\LoginScreen\LoginScreenView.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\LoginScreen\LoginScreenView.xaml
 
+[D:/GitFolder/MigraineTrackerApp/MigraineTrackerApp/Pages/SignUpScreen/SignUpScreenView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MigraineTrackerApp.Pages.SignUpScreen.SignUpScreenView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SignUpScreen\SignUpScreenView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SignUpScreen\SignUpScreenView.xaml
+
 [D:/GitFolder/MigraineTrackerApp/MigraineTrackerApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MigraineTrackerApp.Resources.Styles.Colors.xaml

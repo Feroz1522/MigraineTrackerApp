@@ -22,6 +22,7 @@ namespace MigraineTrackerApp
                 });
             StartUp.Init();
 
+
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif

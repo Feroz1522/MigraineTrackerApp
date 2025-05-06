@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MigraineTrackerApp.Pages.SignUpScreen.SignUpScreenView"
+             xmlns:TopBar="clr-namespace:CommunityToolkit.Maui.Behaviors;assembly=CommunityToolkit.Maui"     
+             BackgroundColor="#FEEFDA"
+             Title="SignUpScreenView">
+    <Page.Behaviors>
+        <TopBar:StatusBarBehavior StatusBarStyle="DarkContent" StatusBarColor="#FEEFDA" ></TopBar:StatusBarBehavior>
+    </Page.Behaviors>
+    <Grid RowDefinitions="5*,5*" Margin="30,15">
+
+        <Image Source="signupbg.jpeg" VerticalOptions="Center" HeightRequest="300"></Image>
+        <StackLayout VerticalOptions="Start" HorizontalOptions="Start" >
+            <Label Text="Sign Up" FontSize="22" TextColor="Black" Style="{StaticResource HeaderTxt}"/>
+        </StackLayout>
+        <StackLayout Grid.Row="1" Spacing="20">
+            <Label Text="Sign Up Details" HorizontalOptions="Center" FontSize="22" TextColor="Black" Style="{StaticResource HeaderTxt}"/>
+
+            <Border Padding="0,2,0,0" StrokeShape="RoundRectangle 30">
+                <Entry Keyboard="Email" HeightRequest="24" VerticalOptions="Center" Placeholder="Enter Username" Margin="15,0" Style="{StaticResource ContentTxt}"  PlaceholderColor="Black"/>
+            </Border>
+            <Border Padding="0,2,0,0" StrokeShape="RoundRectangle 30">
+                <Entry IsPassword="False" HeightRequest="24" VerticalOptions="Center" Placeholder=" Enter Email ID" Margin="15,0" Style="{StaticResource ContentTxt}" PlaceholderColor="Black"/>
+            </Border>
+            <Border Padding="0,2,0,0" StrokeShape="RoundRectangle 30">
+                <Entry IsPassword="False" HeightRequest="24" VerticalOptions="Center" Placeholder=" Enter Password" Margin="15,0" Style="{StaticResource ContentTxt}" PlaceholderColor="Black"/>
+            </Border>
+           
+            <Button Text="SignUp" CornerRadius="30" Margin="0,20,0,0" WidthRequest="190" BackgroundColor="Red" Style="{StaticResource HighLights}" />
+        </StackLayout>
+        <Label Grid.Row="2" HorizontalOptions="Center" VerticalOptions="End">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Already have an account " Style="{StaticResource ContentTxt}"  />
+                    <Span Text="Login" TextDecorations="Underline" Style="{StaticResource ContentTxt}" TextColor="DarkBlue" />
+                    <Span Text=" ?" Style="{StaticResource ContentTxt}"  />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+    </Grid>
+</ContentPage>
